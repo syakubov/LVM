@@ -1,6 +1,6 @@
 # LVM: The Lil' Virtual Machine&trade;
 
-Silly, stackless, register-based virtual machine capable of basic arithmetic operations and printing to the console. Written in C, like a Real Virtual Machine&reg; should be.
+Fun, stackless, register-based virtual machine capable of basic arithmetic operations and printing to the console. Written in C, like a Real Virtual Machine&reg; should be.
 
 ## Getting Started
 
