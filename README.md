@@ -57,6 +57,7 @@ This is the instruction pointer register. It is used solely to fetch the next in
 These are the instructions that you may use to program the LVM (in its own language, of course).
 
 <br>
+
 ```
 EXIT
 ```
