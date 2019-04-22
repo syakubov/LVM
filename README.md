@@ -13,7 +13,7 @@ In a directory of your choice, run the following commands in the terminal:
 <br>
 
 ```
-git clone link
+git clone https://github.com/syakubov/LVM.git
 make
 ```
 And that's it! The program compiles with some warnings, but it works fine. 
