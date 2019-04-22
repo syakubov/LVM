@@ -86,7 +86,7 @@ Usage:
 RMOV, (AR|AX|BX|CX), (AR|AX|BX|BX|CX)
 ```
 
-Sets the value of the register to the integer literal specified.
+Sets the value of the register to the value of the register specified.
 <br>
 
 ```
@@ -97,7 +97,7 @@ Usage:
 ```
 ADD, <integer literal>
 ```
-Adds the value of the register to the accumulator (AR).
+Adds the value of the integer to the accumulator (AR).
 <br>
 
 ```
